@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Michał
 
 I'm a Computer Science graduate from the Warsaw University of Technology with a strong focus on web development.  
-As a fullstack developer with experience in Node.js, I enjoy building scalable, efficient, and user-friendly applications from backend to frontend.
+As a fullstack developer with experience in Node.js, I enjoy building scalable, efficient, and user-friendly applications.
 
 You can contact me here:
 
