@@ -65,6 +65,7 @@ You can contact me here:
 
 - **Roomzy** - a room booking app built with Next.js, TypeScript, TailwindCSS, Firebase and MongoDB, containerized with Docker. [Roomzy](https://github.com/misat1505/roomzy)
 - **Boomer** - an Express-inspired HTTP server framework for C++, built from raw POSIX sockets with routing, multipart form-data parsing, and video streaming support. [Boomer](https://github.com/misat1505/boomer)
+- **Earth-Mars Transfer Analysis** - a research paper analyzing the energetics of Earth-Mars transfers using JPL ephemerides and Izzo's solution to Lambert's problem, identifying optimal launch windows for the 2026-2027 cycle. [Earth-Mars Transfer Analysis](https://github.com/misat1505/earth-mars-transfer-analysis/blob/master/earth-mars-transfer-optimization.pdf)
 
 ## 💻 Additional Technologies:
 
