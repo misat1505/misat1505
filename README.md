@@ -64,6 +64,7 @@ You can contact me here:
 ## 🗂️ Additional Projects
 
 - **Roomzy** - a room booking app built with Next.js, TypeScript, TailwindCSS, Firebase and MongoDB, containerized with Docker. [Roomzy](https://github.com/misat1505/roomzy)
+- **Boomer** - an Express-inspired HTTP server framework for C++, built from raw POSIX sockets with routing, multipart form-data parsing, and video streaming support. [Boomer](https://github.com/misat1505/boomer)
 
 ## 💻 Additional Technologies:
 
