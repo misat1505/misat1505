@@ -12,6 +12,7 @@ You can contact me here:
 1. **Nexus - Bachelor's and Master's Thesis Project**
 
    [![Nexus](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=nexus&theme=dark)](https://github.com/misat1505/nexus)
+
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,7 +25,9 @@ You can contact me here:
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 2. **Viatora - Pet Project**
+
    [![Viatora](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=viatora&theme=dark)](https://github.com/misat1505/viatora)
+
    ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -51,7 +54,9 @@ You can contact me here:
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 4. **Interpreter for custom language - University Project**
+
    [![Tkom project](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=tkom&theme=dark)](https://github.com/misat1505/tkom)
+   
    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 💻 Additional Technologies:
