@@ -61,6 +61,10 @@ You can contact me here:
 
    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+## 🗂️ Additional Projects
+
+- **Roomzy** - a room booking app built with Next.js, TypeScript, TailwindCSS, Firebase and MongoDB, containerized with Docker. [Roomzy](https://github.com/misat1505/roomzy)
+
 ## 💻 Additional Technologies:
 
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
