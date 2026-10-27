@@ -1,15 +1,35 @@
-# 💫 Hi, I'm Michał
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Micha%C5%82%20Sata%C5%82a&fontSize=46&fontAlignY=38&desc=Software%20Engineer&descSize=16&descAlignY=60" alt="header" width="100%" />
+</p>
 
-I'm a Computer Science graduate from the Warsaw University of Technology with a strong focus on web development.  
-As a fullstack developer with experience in Node.js, I enjoy building scalable, efficient, and user-friendly applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%7C+TypeScript%2C+Python+%26+Rust;Computer+Science+Graduate+from+Warsaw+University+of+Technology;Building+web+applications%2C+backend+systems+%26+developer+tools;Creator+of+Raptor%2C+a+programming+language+that+compiles+itself" alt="Typing SVG" />
+</p>
+<p align="center">
+  I'm a Computer Science graduate from Warsaw University of Technology focused on building reliable, scalable software.<br/>
+  My interests span web development, backend systems and systems programming.
+</p>
 
-You can contact me here:
+<p align="center">
+  <a href="mailto:misat2002@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/misat1505">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub" />
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-misat2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misat2002@gmail.com)
+## 🚀 Featured Projects
 
-## 📂 Repos:
+1. **Raptor - Statically typed, compiled, self-hosted programming language**
 
-1. **Nexus - Bachelor's and Master's Thesis Project**
+   [![Raptor](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=raptor&theme=dark)](https://github.com/misat1505/raptor)
+
+   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+   ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+
+2. **Nexus - Bachelor's and Master's Thesis Project**
 
    [![Nexus](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=nexus&theme=dark)](https://github.com/misat1505/nexus)
 
@@ -26,7 +46,7 @@ You can contact me here:
    ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-2. **Viatora - Pet Project**
+3. **Viatora - Pet Project**
 
    [![Viatora](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=viatora&theme=dark)](https://github.com/misat1505/viatora)
 
@@ -43,7 +63,7 @@ You can contact me here:
    ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-3. **Blastoff - University Project**
+4. **Blastoff - University Project**
 
    [![blastoff](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=blastoff&theme=dark)](https://github.com/misat1505/blastoff)
 
@@ -55,19 +75,17 @@ You can contact me here:
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-4. **Interpreter for custom language - University Project**
+---
 
-   [![Tkom project](https://github-stats-extended.vercel.app/api/pin/?username=misat1505&repo=tkom&theme=dark)](https://github.com/misat1505/tkom)
-
-   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-## 🗂️ Additional Projects
+## 🗂️ More Projects
 
 - **Roomzy** - a room booking app built with Next.js, TypeScript, TailwindCSS, Firebase and MongoDB, containerized with Docker. [Roomzy](https://github.com/misat1505/roomzy)
 - **Boomer** - an Express-inspired HTTP server framework for C++, built from raw POSIX sockets with routing, multipart form-data parsing, and video streaming support. [Boomer](https://github.com/misat1505/boomer)
 - **Earth-Mars Transfer Analysis** - a research paper analyzing the energetics of Earth-Mars transfers using JPL ephemerides and Izzo's solution to Lambert's problem, identifying optimal launch windows for the 2026-2027 cycle. [Earth-Mars Transfer Analysis](https://github.com/misat1505/earth-mars-transfer-analysis/blob/master/earth-mars-transfer-optimization.pdf)
 
-## 💻 Additional Technologies:
+---
+
+## 🧰 Tech Stack
 
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -77,3 +95,11 @@ You can contact me here:
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by and have a good day!</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" width="100%" />
